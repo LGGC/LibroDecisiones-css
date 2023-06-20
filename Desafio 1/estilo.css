@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+}
+
+.contenedor {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    border: 3px solid darkgray;
+    padding: 15px;
+}
